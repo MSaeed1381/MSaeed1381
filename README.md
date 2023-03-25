@@ -1,9 +1,8 @@
-<h2 align="center">
+<h3 align="center">
  <abc>
  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  <br> I'm Saeed Zare, A Student From Shahid Beheshti University <br>
+  <br><br> I'm Saeed Zare, A Student From Shahid Beheshti University <br>
  </abc>
-  
 <h2 align="left">👨🏻‍💻 About Me:</h2><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right">
   <br><br><br>
   <ul align="left">
@@ -13,8 +12,8 @@
     <li>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</li>
     <li>:zap: Fun fact: In my free time, I enjoy hiking, watching TV and spending time with family</li>
   </ul>
- <br><br>
-</h2> 
+ <br>
+</h3> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -54,8 +53,6 @@
   <br /><br /><br />
   <P><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Msaeed1381&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </p>
 </p>
-
-<br />
 <h2 align="left">:heart: Let's get connected:</h2>
 <h5 align="center">
   <code><a href="https://linkedin.com/in/saeed-zare-169772216" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
