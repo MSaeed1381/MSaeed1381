@@ -1,12 +1,12 @@
 <h3 align="center">
  <abc>
  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  <br><br> I'm Saeed Zare, A Student From Shahid Beheshti University <br>
+  <br><br> I'm Saeed Zare, A Computer Engineering Student <br>
  </abc>
 <h2 align="left">👨🏻‍💻 About Me:</h2><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right">
   <br><br><br>
   <ul align="left">
-    <li>:computer: I'm a Computer Science student at shahid beheshti univerity</li>
+    <li>:computer: I'm a Computer Engineering student at shahid beheshti univerity</li>
     <li>:rocket: Always ready to collaborate for Web Development</li>
     <li>:man_technologist: Studing Data Structures & Algorithms</li>
     <li>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</li>
